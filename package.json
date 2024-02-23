@@ -2,7 +2,7 @@
   "name": "chessanalysis",
   "version": "1.0.0",
   "description": "Unlimited chess analysis powered by stockfish",
-  "main": "index.js",
+  "main": "node .",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
